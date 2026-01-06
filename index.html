@@ -27,17 +27,9 @@
 <body>
     <div id="info"><a href="https://threejs.org" target="_blank">three.js</a> - fat lines raycasting</div>
     
-    <script type="importmap">
-        {
-            "imports": {
-                "three": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js"
-            }
-        }
-    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     
-    <script type="module">
-        import * as THREE from 'three';
-
+    <script>
         let renderer, scene, camera;
         let lineSegments = [];
         let sphereInter, sphereOnLine;

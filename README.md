@@ -4,7 +4,7 @@ Spinning Sandclock is an immersive **WebGL** hourglass animation built with **Th
 
 This interactive demo showcases advanced particle systems, physics-inspired movement, and smooth 3D rendering—all running directly in the browser.
 
-Developed by Deividas Strole as part of his portfolio, it demonstrates creative Three.js techniques for particle simulations and visual effects
+Developed by Deividas Strole as part of his portfolio, it demonstrates creative Three.js techniques for particle simulations and visual effects.
 
 <grok-card data-id="1091c8" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 

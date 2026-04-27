@@ -1,10 +1,10 @@
-# Spinning Sandclock — Dynamic 3D Hourglass Particle Simulation by Deividas Strole
+ok# Spinning Sandclock — Dynamic 3D Hourglass Particle Simulation by Deividas Strole
 
 Spinning Sandclock is an immersive **WebGL** hourglass animation built with **Three.js**. Created by Deividas Strole, this project simulates thousands of sand-like particles flowing through a rotating 3D hourglass, creating a mesmerizing and realistic falling sand effect in real-time.
 
 This interactive demo showcases advanced particle systems, physics-inspired movement, and smooth 3D rendering—all running directly in the browser.
 
-Developed by Deividas Strole as part of his portfolio, it demonstrates creative Three.js techniques for particle simulations and visual effects
+Developed by Deividas Strole as part of his portfolio, it demonstrates creative Three.js techniques for particle simulations and visual effects.
 
 <grok-card data-id="1091c8" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
